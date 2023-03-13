@@ -1,0 +1,20 @@
+.navbar-col{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--background);
+}
+h4{
+    color: var(--primary-color);
+    font-size: 2rem;
+}
+.switch{
+    font-size: 1.5rem;
+}
+.on{
+    color: black;
+}
+.off{
+    color: white;
+}

@@ -1,0 +1,19 @@
+:root {
+  --background: #57565a;
+  --main-color: #ACD5E6;
+  --primary-color: #ffffff;
+}
+
+[data-theme=true] {
+  --background: #c1c7cd;
+  --main-color: #174E86;
+  --main2-color: #ACD5E6;
+  --button-color: #ACD5E6;
+  --primary-color: green;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}

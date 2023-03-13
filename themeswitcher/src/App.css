@@ -1,0 +1,9 @@
+#root {
+  margin: 0 auto;
+  height: 100%;
+}
+.app{
+  background: var(--background);
+  padding: 2rem;
+}
+
